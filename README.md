@@ -1,5 +1,7 @@
-Ethereum Multisignature Wallet
+Ethereum Multisignature Wallet (Decentralized version for DAppNode)
 ===================
+
+Deployed at [http://gmultisig.dappnode.eth/](http://gmultisig.dappnode.eth/) ( /ipfs/QmSDYLB4XP98AXjW4UA5wWeYR3AffYjN8KsmPDkPohJ3ia )
 
 [![Join the chat at https://gitter.im/gnosis/MultiSigWallet](https://badges.gitter.im/gnosis/MultiSigWallet.svg)](https://gitter.im/gnosis/MultiSigWallet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
